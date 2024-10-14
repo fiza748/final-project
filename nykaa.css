@@ -1,0 +1,522 @@
+*{
+margin:0;
+}
+
+.div1{
+width:100%;
+height:120px;
+background:white;
+
+}
+.img1{
+margin-top:55px;
+margin-left:100px;
+
+
+}
+.div2{
+margin-left:60px;
+margin-bottom:30px;
+display:inline;
+}
+.div3{
+margin-left:60px;
+margin-bottom:30px;
+display:inline;
+}
+input{
+height:40px;
+color:grey;
+}
+.div4{
+margin-left:500px;
+margin-bottom:30px;
+display:inline;
+
+}
+.div5{
+height:50px;
+border:1px solid grey;
+color:grey;
+position:relative;
+}
+.div6{
+margin-top:15px;
+margin-left:100px;
+position:relative;
+}
+.div7{
+bottom:18px;
+left:200px;
+position:relative;
+}
+.div8{
+bottom:35px;
+left:280px;
+position:relative;
+}
+.div9{
+bottom:54px;
+left:360px;
+position:relative;
+}
+.div10{
+bottom:71px;
+left:490px;
+position:relative;
+}
+.div11{
+bottom:89px;
+left:630px;
+position:relative;
+
+}
+.div12{
+margin-left:60px;
+margin-bottom:30px;
+display:inline;
+height:40px;
+width:70px;
+background:hotpink;
+color:white;
+border-radius:5px;
+}
+.div13{
+	bottom:107px;
+left:730px;
+position:relative;
+	
+}
+
+.div14{
+	bottom:125px;
+left:865px;
+position:relative;
+}
+.div15{
+	bottom:143px;
+left:1030px;
+position:relative;	
+}
+.div16{
+		bottom:161px;
+left:1110px;
+position:relative;		
+}
+.div17{
+	bottom:178px;
+left:1220px;
+position:relative;	
+	
+}
+.div18{
+		bottom:200px;
+left:1430px;
+position:relative;
+background:hotpink;
+color:white;
+height:30px;
+width:70px;
+text-align:center;
+line-height:30px;
+	
+}
+.img2{
+width:100%;	
+position:relative;
+top:50px;
+}
+.img3{
+	position:relative;
+top:20px;
+}
+.img4{
+	position:relative;
+	right:-20px;
+	top:23px;
+}
+.img5{
+	position:relative;
+	right:-40px;
+	top:25px;
+	
+}
+.img6{
+	position:relative;
+	right:-60px;
+	top:25px;
+	
+}
+.img7{
+	position:relative;
+	right:-75px;
+	top:25px;
+}
+.img8{
+	position:relative;
+	right:-90px;
+	top:25px;
+}
+.img9{
+position:relative;
+	right:-105px;
+	top:25px;	
+	
+}
+.img10{
+	position:relative;
+	right:-115px;
+	top:25px;
+	
+}
+.marquee1{
+	position:relative;
+	top:90px;
+	height:30px;
+	background:orange;
+	font-weight:600;
+}
+.h21{
+	position:relative;
+	text-align:center;
+	top:50px;
+	color:red;
+}
+.img11{
+	position:relative;
+	top:70px;
+	left:30px;
+}
+.img12{
+	position:relative;
+	top:70px;
+	left:150px;
+}
+.img13{
+	position:relative;
+	top:70px;
+	left:270px;
+}
+.img14{
+	position:relative;
+	top:90px;
+	left:35px;
+}
+.img15{
+	position:relative;
+	top:90px;
+	left:145px;
+}
+.img16{
+	position:relative;
+	top:90px;
+	left:265px;
+}
+.img17{
+	position:relative;
+	top:110px;
+	left:685px;
+	
+}
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  position:relative;
+	text-align:center;
+	top:50px;
+	color:red;
+}
+
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+    position:relative;
+	text-align:center;
+	top:130px;
+	color:red;
+}
+.img18{
+	position:relative;
+	top:150px;
+	
+}
+.div20{
+		position:relative;
+	top:150px;
+	
+	
+}
+.b1{
+	color:green;
+	
+}
+.img19{
+	position:relative;
+	left:190px;
+	bottom:351px;
+}
+.div21{
+	position:relative;
+	left:190px;
+	bottom:329px;
+	
+}
+.a1{
+	text-decoration:none;
+	color:white;
+	
+}
+.div22{
+	position:relative;
+	left:200px;
+	bottom:325px;
+	
+}
+.img20{
+		position:relative;
+	left:200px;
+	bottom:348px;
+	
+}
+.img21{
+	position:relative;
+	left:390px;
+	bottom:680px;
+	
+}
+.div23{
+	position:relative;
+	left:400px;
+	bottom:660px;
+
+}
+.div24{
+	position:relative;
+	left:575px;
+	bottom:995px;
+	
+}
+.img22{
+	position:relative;
+	left:575px;
+	bottom:1010px;
+	
+}
+.img23{
+	position:relative;
+	left:770px;
+	bottom:1360px;
+	
+}
+.div25{
+	position:relative;
+	left:770px;
+	bottom:1355px;
+	
+}
+.img24{
+	position:relative;
+	left:960px;
+	bottom:1725px;
+	
+}
+.div26{
+	position:relative;
+	left:970px;
+	bottom:1720px;
+	
+}
+.div27{
+	position:relative;
+	left:1150px;
+	bottom:2034px;
+}
+.img25{
+	position:relative;
+	left:1150px;
+	bottom:2034px;
+	
+}
+.img26{
+	position:relative;
+	left:1350px;
+	bottom:2390px;
+	
+}
+.div28{
+	position:relative;
+	left:1353px;
+	bottom:2385px;
+}
+.div29{
+	position:relative;
+	left:1520px;
+	bottom:2715px;
+	
+}
+.img27{
+	position:relative;
+	left:1520px;
+	bottom:2725px;
+	
+}
+.img28{
+	position:relative;
+	bottom:2830px;
+}
+.img28:hover{
+	width:100%;
+	height:500px;
+	transition:all 2s ease-in 5s,3s ease-out 2s;
+}
+.div31{
+	background:grey;
+	height:250px;
+	width:100%;
+	position:relative;
+	bottom:2780px;
+	
+}
+.img29{
+	position:relative;
+	left:200px;
+	top:50px;
+	
+}
+.p1{
+	position:relative;
+	left:240px;
+	top:27px;
+	color:white;
+	
+}
+.input2{
+	position:relative;
+	left:200px;
+	top:30px;
+	color:white;
+}
+.send{
+	position:relative;
+	left:200px;
+	top:30px;
+	color:white;
+	background:grey;
+	height:30px;
+	width:60px;
+}
+.div32{
+	position:relative;
+	left:650px;
+	top:-38px;
+	color:white;
+}
+.img33{
+	position:relative;
+	left:725px;
+	top:-15px;
+}
+.img34{
+	position:relative;
+	left:600px;
+	top:30px;
+}
+.div33{
+	position:relative;
+	left:1200px;
+	top:-98px;
+	color:white;
+}
+.div35{
+	height:500px;
+	background:lightgrey;
+	position:relative;
+	bottom:2800px;
+}
+.div36{
+	color:white;
+	position:relative;
+	top:100px;
+	left:200px;
+	font-weight:700;
+	
+}
+.div37{
+	color:white;
+	position:relative;
+	bottom:115px;
+	left:500px;
+	font-weight:700;
+	
+}
+.div38{
+	color:white;
+	position:relative;
+	bottom:275px;
+	left:850px;
+	font-weight:700;
+}
+.div39{
+	color:white;
+	position:relative;
+	bottom:390px;
+	left:1200px;
+	font-weight:700;
+	
+}
+.div40{
+	color:white;
+	position:relative;
+	bottom:550px;
+	left:1500px;
+	font-weight:700;
+	
+}
+.div41{
+	color:grey;
+	position:relative;
+	bottom:2790px;
+	left:20px;
+	font-weight:700;
+}
+.div42{
+	background:hotpink;
+	color:white;
+	position:relative;
+	height:100px;
+	bottom:2800px;
+	
+}
+.div43{
+	position:relative;
+	left:400px;
+	top:20px;
+	
+}
+.div44{
+	position:relative;
+	left:700px;
+	top:2px;
+}
+.div45{
+	position:relative;
+	bottom:16px;
+	left:900px;
+	
+}
+.div46{
+	position:relative;
+	bottom:33px;
+	left:1100px;
+	
+}
+.div47{
+	position:relative;
+	bottom:20px;
+	left:650px;
+}
